@@ -21,16 +21,22 @@
   <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="50" height="50"/>
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="50" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_OpenAI.svg" alt="AI" width="50" height="50"/>
 </p>
 
 ---
 
 ### 📊 **GitHub Stats**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmed667830&show_icons=true&theme=radical" alt="Ahmed's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed667830&theme=radical" alt="GitHub Streak Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed667830&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmed667830&show_icons=true&theme=nord" alt="Ahmed's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed667830&theme=nord" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed667830&layout=compact&theme=nord" alt="Top Languages" />
+</p>
+
+---
+
+### 🏆 **GitHub Profile Trophy**
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ahmed667830&theme=nord" alt="GitHub Profile Trophy" />
 </p>
 
 ---
