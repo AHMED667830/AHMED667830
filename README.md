@@ -28,7 +28,7 @@
 ### 📊 **GitHub Stats**
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ahmed667830&show_icons=true&theme=nord" alt="Ahmed's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed667830&theme=nord" alt="GitHub Streak Stats" />
+ 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed667830&layout=compact&theme=nord" alt="Top Languages" />
 </p>
 
