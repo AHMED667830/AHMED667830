@@ -5,7 +5,7 @@
 
 ### 🚀 **About Me**
 - 🌱 I’m currently learning **JavaScript** and **Bootstrap**.  
-- 👨‍💻 All my projects are available on [My Portfolio](https://ahmedalfaisal502.netlify.app/).  
+- 👨‍💻 All my projects are available on [My Portfolio](https://ahmed667830.github.io/web-site-my/).  
 - 📝 I occasionally share articles about **Programming**.  
 - 📫 How to reach me: **ahmed.alfisal5@gmail.com**  
 - ⚡ Fun fact: **Coding is challenging, but incredibly rewarding!**  
@@ -45,7 +45,7 @@
 <p align="center">
   <a href="https://twitter.com/ahmed667830" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
   <a href="mailto:ahmed.alfisal5@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-  <a href="https://ahmedalfaisal502.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://ahmed667830.github.io/web-site-my/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" /></a>
 </p>
 
 ---
